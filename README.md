@@ -1,4 +1,7 @@
 # Mat-GAN-in-CaSnSO
+
+Author Email:757634911@qq.com; hujunjie@fjirsm.ac.cn
+
 Computational Design Lead-free RP perovskite for photovltaic application
 
 *.zip files are the datasets for training the Mat-GAN and GCN. We could distingusih them by their fliename.
